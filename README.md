@@ -94,8 +94,7 @@
     - https://archive.org/web/
   
 ==================================================
-Referensi : 
-- https://github.com/meirwah/awesome-incident-response
+**Referensi :**
 - https://github.com/luridarmawan/scan-slot-backdoor
 - https://github.com/adpermana/Incident-Response-Tools
 - https://github.com/Cugu/awesome-forensics
