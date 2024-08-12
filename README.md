@@ -36,7 +36,7 @@
    * Centos Server >> curl https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/master/Centos.sh | sh
  - After run, output saved to ./Collection.tar.gz
 
-# Automate Data Collection 
+# Scan Slot Gacor 
  - Run this shell script on your server :
    * Ubuntu Server >> curl https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/master/UbuntuIR.sh | sh
  - After run, output saved to ./Collection.tar.gz
