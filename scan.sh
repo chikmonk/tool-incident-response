@@ -1,5 +1,22 @@
 #!/bin/bash
 
+echo "************************************************************"
+echo "Automate Scan Slot Gacor Script v1.0"
+echo "************************************************************"
+
+# Read Current Directory
+curr=${PWD}
+
+# Create Directory :
+mkdir $curr/scangacor
+
+# Sesuaikan Directory
+dir=$curr/scangacor
+
+# Download list gacor
+wget https://raw.githubusercontent.com/chikmonk/tool-incident-response/main/sum5list.txt
+wget https://raw.githubusercontent.com/chikmonk/tool-incident-response/main/listgacor.txt
+
 # Check if an argument was provided
 if [ "$#" -ne 1 ]; then
     echo "Usage: $0 path"
