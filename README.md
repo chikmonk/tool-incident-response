@@ -36,8 +36,8 @@
    * Centos Server >> curl https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/master/Centos.sh | sh
  - After run, output saved to ./Collection.tar.gz
 
-# Scan Slot Gacor >> https://github.com/chikmonk/tool-incident-response/tree/slotgacor
- - 
+# Scan Slot Gacor
+ - Pencarian Slot Gacor >> https://github.com/chikmonk/tool-incident-response/tree/slotgacor
    
 # Investigation on Linux Server
  - Network Analysis
