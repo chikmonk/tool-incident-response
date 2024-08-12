@@ -37,7 +37,7 @@
  - After run, output saved to ./Collection.tar.gz
 
 # Scan Slot Gacor
- - Pencarian Slot Gacor >> https://github.com/chikmonk/tool-incident-response/tree/slotgacor
+ - Pencarian Slot Gacor >> https://github.com/chikmonk/scanslotgacor
    
 # Investigation on Linux Server
  - Network Analysis
