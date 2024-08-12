@@ -9,8 +9,8 @@ fi
 # Store the argument into a variable
 path=$1
 
-# Read the file list.txt and store each line into the array search_strings
-readarray -t search_strings < list.txt
+# Read the file listgacor.txt and store each line into the array search_strings
+readarray -t search_strings < listgacor.txt
 
 # Get the total number of search strings
 total=${#search_strings[@]}
