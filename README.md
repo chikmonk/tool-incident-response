@@ -36,9 +36,7 @@
    * Centos Server >> curl https://raw.githubusercontent.com/adpermana/Incident-Response-Tools/master/Centos.sh | sh
  - After run, output saved to ./Collection.tar.gz
 
-# Scan Slot Gacor 
- - Run this shell script on your server :
-   * >> curl https://raw.githubusercontent.com/chikmonk/tool-incident-response/main/scan.sh | sh
+# Scan Slot Gacor >> https://github.com/chikmonk/tool-incident-response/tree/slotgacor
  - 
    
 # Investigation on Linux Server
